@@ -79,7 +79,7 @@ while True:
         
         print("\n==========extrato==========")
         print("não houveram operaçoes" if not extrato else extrato)
-        print(f"\nsaldo: R$: {saldo:.2f}")
+        print(f'\nsaldo: R$: {saldo:.2f}')
         print("===========================")
     
         
